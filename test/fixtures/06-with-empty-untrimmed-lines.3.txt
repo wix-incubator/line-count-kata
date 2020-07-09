@@ -1,0 +1,4 @@
+someCall();
+additionalCall();
+  
+function test() {}

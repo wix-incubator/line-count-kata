@@ -1,0 +1,14 @@
+     /*****
+     * This is a test program
+     *  \/* no nesting allowed!
+     //*****//***/// Slightly pathological comment ending...
+     `
+     what?
+     `
+  
+someCall();
+additionalCall();
+function test() {} // some comment
+ // say what
+test./*the*/.out("Hey/*");
+

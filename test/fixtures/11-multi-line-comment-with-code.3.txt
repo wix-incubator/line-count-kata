@@ -1,0 +1,3 @@
+someCall();
+additionalCall/** count the number of lines in a file */();
+function test() {}

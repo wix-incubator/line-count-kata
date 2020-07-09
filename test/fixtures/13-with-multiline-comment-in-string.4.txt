@@ -1,0 +1,4 @@
+someCall();
+additionalCall(); 
+"/* test */"
+function test() {}

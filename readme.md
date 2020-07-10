@@ -9,7 +9,7 @@ tests green as possible.
 
 Run `yarn test-watch` to start mocha watcher. Fixture format is `FIXTURE_NAME.EXPECTED_LENGTH.txt`.
 
-In case you find any issue with the tests files please notify us, so others don't get stuck on it.
+In case you find any issue with the tests files please notify us, so others don't get stuck on it. On top of it, if you think of additional cases that are not covered by tests feel free to share about it.
 
 When the time ends we will do a call and discuss the results. Make it fast/pretty/ugly, it is up to you.
 

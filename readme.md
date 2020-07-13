@@ -14,3 +14,6 @@ In case you find any issue with the tests files please notify us, so others don'
 When the time ends we will do a call and discuss the results. Make it fast/pretty/ugly, it is up to you.
 
 Hope you will enjoy it :)
+
+
+All credits go to http://codekata.com/kata/kata13-counting-code-lines/ . I've just created boilerplate + some additional javascript tests (string literal)
